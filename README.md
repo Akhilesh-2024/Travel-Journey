@@ -12,18 +12,7 @@ This is a minimal React + Vite project that showcases a travel journal experienc
 
 ## Project Structure
 
-Travel-Journey/
-├── public/
-├── src/
-│ ├── assets/ # Images and static assets
-│ ├── components/ # Reusable React components
-│ ├── data.js # File containing travel data
-│ ├── App.jsx # Main application component
-│ └── main.jsx # Entry point for the React app
-├── index.html
-├── vite.config.js
-├── .eslintrc.cjs
-└── package.json
+<pre lang="markdown"> ``` Travel-Journey/ ├── public/ ├── src/ │ ├── assets/ # Images and static assets │ ├── components/ # Reusable React components │ ├── data.js # File containing travel data │ ├── App.jsx # Main application component │ └── main.jsx # Entry point for the React app ├── index.html ├── vite.config.js ├── .eslintrc.cjs └── package.json ``` </pre>
 
 
 ## Getting Started
